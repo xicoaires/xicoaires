@@ -22,7 +22,7 @@ Atualmente estou me especializando em desenvolvimento back-end, onde estou estud
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xicoaires&show_icons=true&theme=dracula&line_height=27" alt="Francisco Aires github stats"/>
-<br><br>
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xicoaires&theme=dracula&hide_langs_below=1" />
 
 
