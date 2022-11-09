@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Francisco Aires!</strong>
+## 👨‍💻 Olá, meu nome é <strong>Francisco Aires!</strong>
 
 > Estou em transição de carreira e sou graduando de Análise e Desenvolvimento de Sistemas.<br>
 Atualmente estou me especializando em desenvolvimento back-end, onde estou estudando Java e Python na Cesar School.
