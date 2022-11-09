@@ -20,13 +20,11 @@ Atualmente estou me especializando em desenvolvimento back-end, onde estou estud
 
 ## ⭐ Informações sobre minha conta GitHub
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xicoaires&show_icons=true&theme=dracula&line_height=27" alt="Francisco Aires github stats"/>
-</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xicoaires&show_icons=true&theme=dracula&line_height=27" alt="Francisco Aires github stats"/>
 <br><br>
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xicoaires&theme=dracula&hide_langs_below=1" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xicoaires&theme=dracula&hide_langs_below=1" />
+
 
 #### Rede Sociais
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/franciscoairesjr/)<br>
