@@ -1,32 +1,27 @@
-## 👨‍💻 Olá, meu nome é <strong>Francisco Aires!</strong>
+## 👨‍💻 Hi, I'm <strong>Francisco Aires!</strong>
 
-> Estou em transição de carreira e sou graduando de Análise e Desenvolvimento de Sistemas.<br>
-Atualmente estou me especializando em desenvolvimento back-end, onde estou estudando Java e Python na Cesar School.
+>  :earth_americas:	Recife/PE - Brazil :sunglasses: :beach_umbrella: <br>
+:man_student: Graduated in Systems Analysis and Development <br>
+:video_game: Geek <br>
+:drum: Percussive instrument player for fun
 
 ----
 
-## 🚀 Minhas Skills / Estudando
 
-<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java"/></code>
-<code><img height="32" src="https://miro.medium.com/max/640/1*AbiX4LwtSNozoyfypcKvEg.webp" alt="Spring Boot"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/euxicoaires) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franciscoairesjr) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xicoaires&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xicoaires&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xicoaires&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=xicoaires&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=xicoaires&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ⭐ Informações sobre minha conta GitHub
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xicoaires&show_icons=true&theme=dracula&line_height=27" alt="Francisco Aires github stats"/>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xicoaires&theme=dracula&hide_langs_below=1" />
-
-
-#### Rede Sociais
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/franciscoairesjr/)<br>
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/euxicoaires)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
