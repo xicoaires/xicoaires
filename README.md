@@ -1,7 +1,7 @@
 ## 👨‍💻 Hi, I'm <strong>Francisco Aires!</strong>
 
 >  :earth_americas:	Recife/PE - Brazil :sunglasses: :beach_umbrella: <br>
-:man_student: Graduated in Systems Analysis and Development <br>
+:man_student: Graduate student in Engineering and Data Analysis and graduated in Systems Analysis and Development <br>
 :video_game: Geek <br>
 :drum: Percussive instrument player for fun
 
